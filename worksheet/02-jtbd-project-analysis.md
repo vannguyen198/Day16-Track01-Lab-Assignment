@@ -9,7 +9,7 @@ companion-reference: Strategyn_JTBD_Playbook.pdf (giảng viên gửi kèm)
 
 # Lab 2 — JTBD Project Analysis / Dùng JTBD để soi lại dự án nhóm
 
-**Tên dự án / sản phẩm:** _______________  
+**Tên dự án / sản phẩm:**
 
 > Đây là **file duy nhất** của Lab 2.  
 > File này đồng thời đóng vai trò:
@@ -92,17 +92,17 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Khoanh đúng 1 lát cắt theo 4 điểm
 
-- [ ] **1 nhóm người dùng chính**
-- [ ] **1 hoàn cảnh / tình huống rõ**
-- [ ] **1 job cốt lõi**
-- [ ] **1 workflow đủ cụ thể để vẽ ra được**
+- [x] **1 nhóm người dùng chính**
+- [x] **1 hoàn cảnh / tình huống rõ**
+- [x] **1 job cốt lõi**
+- [x] **1 workflow đủ cụ thể để vẽ ra được**
 
 ### Điền nhanh trước khi làm
 
-- **Dự án của nhóm tôi là:** ___________________________________
-- **Lát cắt tôi chọn để phân tích hôm nay là:** ___________________________________
+- **Dự án của nhóm tôi là:**  StudyMate AI (AI hỗ trợ kế hoạch tự học tập và quản lý thời gian cho học sinh cấp 2–3)  
+- **Lát cắt tôi chọn để phân tích hôm nay là:** Giúp học sinh lớp 9 lập lộ trình ôn thi chuyển cấp (Toán/Văn/Anh) dựa trên lỗ hổng kiến thức thực tế.
 - **Vì sao tôi chọn lát cắt này:**  
-  > ___________________________________
+  > Đây là tình huống có áp lực cao nhất (High Stakes), yêu cầu cá nhân hóa cực sâu và lịch trình cần thay đổi liên tục theo tiến độ thực tế - điều mà các lịch cứng hay sổ tay đều thất bại.
 
 ### Viết quá rộng vs viết sắc hơn
 
@@ -121,13 +121,11 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Tóm tắt dự án trong 3 dòng
 
 1. **Nhóm tôi đang nghĩ mình đang giải quyết vấn đề gì?**  
-   > ___________________________________
-
+   > Giúp học sinh cấp 2-3 (chú trọng trước cấp 2) thiết lập tốt hơn, nhanh hơn kế hoạch học tập dựa trên thời gian KHÔNG ở trên trường.
 2. **Người dùng chính hiện nhóm đang nhắm tới là ai?**  
-   > ___________________________________
-
+   > Học sinh cấp 2, sau đó mở rộng dần lên học sinh cấp 3
 3. **Hiện tại người dùng đó đang giải quyết vấn đề này bằng cách nào?**  
-   > ___________________________________
+   > Tự ghi chép thủ công vào sổ tay hoặc thời khóa biểu giấy, sử dụng các ứng dụng nhắc việc (To-do list) rời rạc, hoặc học theo cảm tính và chỉ tập trung cao độ khi sát kỳ thi (cramming) mà thiếu đi sự phân bổ khoa học và cân bằng với nhịp sinh học.
 
 ---
 
@@ -139,21 +137,20 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Trả lời 4 câu ngắn
 
 1. **Ai đang gặp vấn đề này?**  
-   > ___________________________________
+   > Những học sinh cấp 2, những học sinh chưa có đủ khả năng tự học hiệu quả
 
 2. **Vấn đề xuất hiện trong hoàn cảnh nào?**  
-   > ___________________________________
+   > Sau giờ học chính khóa trên trường, khi học sinh phải đối mặt với khối lượng bài tập về nhà lớn, lịch học thêm dày đặc và các kỳ thi định kỳ mà không biết cách ưu tiên hay phân bổ thời gian nghỉ ngơi hợp lý.
 
 3. **Hiện tại họ đang dùng giải pháp thay thế nào?**  
-   > ___________________________________
+   > Ghi chép lịch học vào sổ tay thủ công, sử dụng các ứng dụng To-do list rời rạc không có logic sư phạm, dựa hoàn toàn vào sự nhắc nhở của phụ huynh, hoặc phổ biến nhất là học theo cảm tính và "nhồi nhét" (cramming) sát ngày thi.
 
 4. **Vì sao đây là thời điểm đáng giải?**  
-   > ___________________________________
+   > Công nghệ AI (LLM) hiện nay đã đủ mạnh để xử lý các lịch trình phức tạp và cá nhân hóa lộ trình theo ngôn ngữ tự nhiên; đồng thời áp lực học tập chuyển cấp ngày càng lớn khiến nhu cầu về một công cụ hỗ trợ học tập khoa học, bảo vệ sức khỏe trở nên cấp thiết.
+
 
 ### Tóm tắt market context trong 3-4 dòng
-
-> _______________________________________________  
-> _______________________________________________
+> Học sinh cấp 2 đang đối mặt với áp lực học tập lớn nhưng thiếu kỹ năng tự quản lý thời gian hiệu quả ngoài giờ lên lớp. Các giải pháp hiện tại như ghi chép thủ công hay học theo cảm tính thường dẫn đến tình trạng nhồi nhét sát kỳ thi và mất cân bằng sinh hoạt. Với sự phát triển của AI, đây là thời điểm vàng để cung cấp một công cụ tự động hóa việc lập kế hoạch học tập khoa học (spaced repetition) và cá nhân hóa lộ trình, giúp học sinh đạt kết quả tốt và vừa tránh quá tải làm giảm hiệu quả.  
 
 ---
 
@@ -174,9 +171,9 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Điền
 
-- **Job executor của dự án này là:** ___________________________________
+- **Job executor của dự án này là:** Học sinh cấp 2, sau mở rộng lên cấp 3
 - **Vì sao tôi tin đây là người trực tiếp "thuê" giải pháp để làm job:**  
-  > ___________________________________
+  > Học sinh là người trực tiếp trải nghiệm áp lực học tập, cần tự quản lý thời gian ngoài giờ học và là người sẽ sử dụng ứng dụng để lập kế hoạch, ôn tập, và theo dõi tiến độ học tập của chính mình. Mặc dù phụ huynh và giáo viên có vai trò hỗ trợ và giám sát, nhưng chính học sinh mới là người thực hiện "công việc" học tập và quản lý lịch trình cá nhân.
 
 ---
 
@@ -200,23 +197,23 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### 3 tiêu chí tự kiểm
 
-- [ ] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
-- [ ] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
-- [ ] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
+- [x] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
+- [x] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
+- [x] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
 
 ### Bản nháp 1
 
 **Core JTBD bản nháp:**  
-> _______________________________________________
+> Sử dụng AI để tự động tạo lịch học tập và ôn thi cá nhân hóa cho học sinh cấp 2 giúp các bạn học tập hiệu quả hơn.
 
 ### Gạch bỏ từ solution nếu có
 
-- Các từ solution tôi đang lỡ nhét vào câu: _________________________________
+- Các từ solution tôi đang lỡ nhét vào câu: AI, tự động, tạo lịch, cá nhân hóa (đây là tính năng, không phải mục tiêu cuối).
 
 ### Bản chốt
 
 **Core JTBD cuối cùng:**  
-> _______________________________________________
+> Thiết lập và điều phối lộ trình tự học ngoài giờ lên lớp một cách khoa học để đạt mục tiêu điểm số mà không bị quá tải hay mất cân bằng sinh hoạt.
 
 ---
 
@@ -239,15 +236,15 @@ When [trigger], I want to [motivation], so I can [outcome].
 
 | # | Trigger / When | Motivation / I want to | Outcome / so I can | Điều story này cho thấy |
 |---|---|---|---|---|
-| JS1 | | | | |
-| JS2 | | | | |
-| JS3 | | | | |
+| JS1 | Khi tan trường về nhà với 5 bộ bài tập khác nhau và lịch học thêm buổi tối dày đặc | Biết ngay lập tức nên bắt đầu từ môn nào và dành bao nhiêu phút cho mỗi môn | Bắt tay vào học ngay mà không mất thời gian loay hoay tự sắp xếp hay cảm thấy quá tải dẫn đến bỏ cuộc | Nhu cầu về việc ra quyết định nhanh (Quick Planning) và giảm tải áp lực tâm lý |
+| JS2 | Khi biết lịch thi giữa kỳ sắp tới và nhận ra mình vẫn hay làm sai các bài tập về phần "Hàm số" | Có một lộ trình ôn tập tập trung nhiều hơn vào các lỗ hổng kiến thức này theo phương pháp khoa học | Tự tin đi thi với kết quả tốt nhất mà không cần phải thức trắng đêm "nhồi nhét" kiến thức vào phút chót | Nhu cầu về cá nhân hóa lộ trình (Personalized Review) và học tập hiệu quả (Spaced Repetition) |
+| JS3 | Khi thường xuyên cảm thấy mệt mỏi, buồn ngủ trên lớp do thói quen thức khuya để hoàn thành bài tập | Được gợi ý cách điều chỉnh lịch sinh hoạt dựa trên nhịp sinh học và đảm bảo ngủ đủ giấc | Duy trì được sức khỏe và sự tỉnh táo kéo dài để tiếp thu bài tốt hơn mà vẫn hoàn thành đủ bài vở | Nhu cầu về sự cân bằng giữa học tập và sức khỏe (Scientific Lifestyle & Guardrails) |
 
 ### Tự kiểm nhanh
 
-- [ ] Mỗi story là một **tình huống thật**, không phải slogan chung chung
-- [ ] 3 story không trùng hệt nhau
-- [ ] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
+- [x] Mỗi story là một **tình huống thật**, không phải slogan chung chung
+- [x] 3 story không trùng hệt nhau
+- [x] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
 
 ---
 
@@ -268,14 +265,14 @@ Qua JTBD lens, đối thủ không chỉ là app cùng ngành.
 
 | Alternative hiện tại | User đang thuê nó để làm gì? | Nó làm tốt gì? | Nó fail ở đâu? | Switching cost hiện tại cao hay thấp? |
 |---|---|---|---|---|
-| Alt 1 | | | | |
-| Alt 2 | | | | |
-| Alt 3 | | | | |
+| Sổ tay/Lịch giấy | Tự ghi chép task cần làm | Rẻ, không gây xao nhãng điện thoại | Tĩnh, không tự điều chỉnh khi kế hoạch hỏng, không có tính gợi ý | Thấp |
+| Google Calendar | Nhắc giờ học thêm | Đồng bộ tốt, thông báo chuẩn | Không có tư duy sư phạm, chỉ là "thùng chứa" task, không biết ưu tiên môn nào | Trung bình |
+| ChatGPT (Prompt tay) | Nhờ lập lịch học hộ | Nhanh, tạo được khung lịch ban đầu | Kết quả thường quá lý thuyết, không theo dõi được tiến độ thực tế để điều chỉnh lịch sau đó | Thấp |
 
 ### Kết luận nhanh
 
 **Nếu project của tôi biến mất hôm nay, user nhiều khả năng sẽ quay về:**  
-> _______________________________________________
+> Sự mông lung khi điều phối lịch trình tự học tập khi có quá nhiều môn thi, môn cần học. 
 
 ---
 
@@ -310,23 +307,22 @@ Mục tiêu là nhìn ra:
 
 | Step | Trong workflow này user đang cố làm gì? | Hôm nay họ đang dùng gì? | Friction / pain hiện tại | Mức đau |
 |---|---|---|---|---|
-| Define | | | | Low / Med / High |
-| Locate | | | | Low / Med / High |
-| Prepare | | | | Low / Med / High |
-| Confirm | | | | Low / Med / High |
-| Execute | | | | Low / Med / High |
-| Monitor | | | | Low / Med / High |
-| Modify | | | | Low / Med / High |
-| Conclude | | | | Low / Med / High |
+| Define | Xác định mục tiêu học tập (điểm số, môn học), nhận diện lỗ hổng kiến thức thực tế. | Tự đánh giá, làm thử đề, hỏi giáo viên/phụ huynh. | Khó tự đánh giá khách quan và chính xác lỗ hổng kiến thức, không biết bắt đầu từ đâu để cải thiện. | High |
+| Locate | Tìm kiếm tài liệu ôn tập phù hợp với lỗ hổng, xác định thời gian rảnh trong lịch trình bận rộn. | Sách giáo khoa, sách tham khảo, tài liệu online, thời khóa biểu cá nhân, lịch học thêm. | Quá nhiều tài liệu không biết chọn lọc, khó khớp thời gian rảnh với các hoạt động khác. | Med |
+| Prepare | Lên kế hoạch học tập chi tiết, phân bổ thời gian cho từng môn/bài, cân bằng với nghỉ ngơi. | Sổ tay/Lịch giấy, Google Calendar, ChatGPT (tạo khung lịch). | Kế hoạch cứng nhắc, không cá nhân hóa sâu, mất thời gian sắp xếp, dễ cảm thấy quá tải ngay từ đầu. | High |
+| Confirm | Kiểm tra tính khả thi, hiệu quả và sự cân bằng của kế hoạch đã lập. | Tự kiểm tra, hỏi phụ huynh/giáo viên. | Khó đánh giá khách quan liệu kế hoạch có tối ưu cho bản thân không, thiếu góc nhìn về sức khỏe/nhịp sinh học. | Med |
+| Execute | Thực hiện các buổi học theo kế hoạch đã định. | Tự học, làm bài tập, học thêm. | Thiếu động lực, dễ xao nhãng, khó tuân thủ kế hoạch dài hạn. | Low |
+| Monitor | Theo dõi tiến độ hoàn thành bài tập, kết quả học tập, và sự tuân thủ kế hoạch. | Tự ghi chép, xem điểm bài kiểm tra. | Khó theo dõi chi tiết và tổng quan, không có phản hồi tức thì về hiệu quả học tập. | Med |
+| Modify | Điều chỉnh kế hoạch học tập khi có thay đổi (lịch thi, bài tập mới, sức khỏe, phát hiện lỗ hổng mới). | Tự sửa sổ tay, sửa Google Calendar, bỏ qua kế hoạch cũ và bắt đầu lại. | Kế hoạch cứng nhắc khó sửa, mất thời gian sửa thủ công, dễ bỏ cuộc khi kế hoạch bị phá vỡ. | High |
+| Conclude | Hoàn thành một chu kỳ học tập (ví dụ: ôn thi xong), đạt được mục tiêu đã đề ra. | Thi xong, đạt điểm. | Cảm giác kiệt sức, không có đánh giá tổng thể về quá trình học tập và hiệu quả của kế hoạch. | Low |
 
 ### Chốt 2 bước đau nhất
 
-**Bước đau nhất #1:** _________________________________  
-**Bước đau nhất #2:** _________________________________
+**Bước đau nhất #1:** Prepare (Lên kế hoạch học tập)
+**Bước đau nhất #2:** Modify (Điều chỉnh kế hoạch)
 
-**Vì sao đây là nơi đáng chú ý nhất:**  
-> _______________________________________________  
-> _______________________________________________
+**Vì sao đây là nơi đáng chú ý nhất:**
+> Đây là hai bước mà học sinh gặp nhiều khó khăn nhất trong việc tự quản lý và điều phối lộ trình học tập. Việc lập một kế hoạch ban đầu tối ưu và khả năng điều chỉnh linh hoạt theo thực tế là yếu tố then chốt để đạt được mục tiêu mà không bị quá tải. Các giải pháp hiện tại đều rất cứng nhắc hoặc đòi hỏi nhiều công sức thủ công, dẫn đến việc học sinh dễ bỏ cuộc hoặc học tập kém hiệu quả.
 
 ---
 
@@ -345,16 +341,16 @@ Sau khi map workflow, mới hỏi:
 
 | Step | AI nên giúp bằng cách nào? | Vì sao AI hợp ở đây? | Rủi ro chính nếu dùng AI |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
+| Prepare | Tự động hóa việc phân bổ thời gian dựa trên mục tiêu điểm số, độ khó môn học và nhịp sinh học cá nhân. | AI có khả năng tối ưu hóa đa mục tiêu (cân bằng giữa học và nghỉ) nhanh hơn con người tự tính toán. | Lộ trình tạo ra quá lý thuyết, không sát với thực tế sức bền của học sinh. |
+| Modify | Tự động tính toán lại toàn bộ lịch trình ngay khi học sinh báo lỡ một "task" hoặc có lịch đột xuất. | Khả năng xử lý biến số và "re-plan" tức thì giúp duy trì tâm lý không bỏ cuộc cho học sinh. | AI điều chỉnh quá dồn dập khiến học sinh cảm thấy bị "ngợp" bởi các task bù. |
 
 ### Kết luận nhanh
 
 **AI leverage point quan trọng nhất của dự án tôi là:**  
-> _______________________________________________
+> Khả năng **"Dynamic Scheduling" (Lập lịch động)**: Tự động khởi tạo và điều chỉnh lộ trình học tập theo thời gian thực dựa trên tiến độ thực tế và phản hồi của người dùng.
 
 **Vì sao không phải ở bước khác:**  
-> _______________________________________________
+> Các bước như Execute (Học) hay Monitor (Theo dõi) đã có nhiều công cụ hoặc thuộc về ý chí cá nhân. Tuy nhiên, bước Prepare và Modify là nơi tốn nhiều "năng lượng nhận thức" nhất, dễ gây nản lòng nhất mà các công cụ tĩnh (sổ tay, lịch) hoàn toàn bất lực.
 
 ---
 
@@ -373,13 +369,12 @@ vì [giá trị rõ nhất].
 
 ### Bản hypothesis của tôi
 
-> _______________________________________________  
-> _______________________________________________
+> Nếu chúng ta giúp học sinh lớp 9 lập lộ trình ôn thi tốt hơn ở bước Prepare và Modify bằng cách sử dụng AI để tự động cá nhân hóa và điều chỉnh lịch học theo tiến độ thực tế, thì họ sẽ chuyển từ việc dùng Sổ tay/Google Calendar sang StudyMate AI, vì họ cảm thấy được thấu hiểu, giảm bớt áp lực quản lý và không bao giờ bị "mất dấu" lộ trình kể cả khi gặp biến cố.
 
 ### Tín hiệu sớm nếu hypothesis này đúng
 
-1. _______________________________________________
-2. _______________________________________________
+1. Tỷ lệ người dùng thực hiện hành động "Re-schedule" thay vì bỏ app khi lỡ task cao.
+2. User dành thời gian tương tác với AI vào mỗi tối để chốt kết quả ngày hôm đó (Engagement).
 
 ---
 
@@ -399,15 +394,13 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 | Assumption | Vì sao assumption này rủi ro? | Tôi đang có bằng chứng gì? | Cần validate bằng cách nào tiếp theo? |
 |---|---|---|---|
-| A1 | | | |
-| A2 | | | |
-| A3 | | | |
-| A4 | | | |
-| A5 | | | |
+| A1 | Học sinh sẽ chịu khó cập nhật tiến độ vào app. | Quan sát thực tế: học sinh rất lười ghi chép lại những gì đã làm nếu app quá phức tạp. | Thiết kế thử nghiệm (Prototype) với nút "Check-in" 1 chạm và đo tỷ lệ hoàn thành. |
+| A2 | AI đề xuất lộ trình đủ tin cậy về mặt sư phạm. | AI phổ thông (ChatGPT) đôi khi gợi ý khối lượng học tập quá tải hoặc sai phương pháp. | Tham vấn chuyên gia giáo dục để xây dựng bộ khung "Guardrails" cho AI. |
+| A3 | Tính năng Re-schedule là lý do chính để đổi app. | Giả định rằng học sinh bỏ cuộc vì "lỡ nhịp" lịch trình cũ. | Phỏng vấn sâu nhóm học sinh từng dùng Google Calendar nhưng đã bỏ cuộc. |
 
 ### Assumption nguy hiểm nhất nếu tôi đang sai
 
-> _______________________________________________
+> **Assumption A1:** Nếu học sinh không cập nhật tiến độ thực tế (data entry), AI sẽ không có dữ liệu để thực hiện bước Modify, làm sụp đổ toàn bộ giá trị cốt lõi của giải pháp.
 
 ---
 
@@ -416,9 +409,13 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 ### Mỗi người / mỗi nhóm chỉ nói 4 thứ
 
 1. **Job executor của bạn là ai**
+> Đối tượng chính là học sinh lớp 9 đang ôn thi chuyển cấp
 2. **Core JTBD của bạn là gì**
+> Thiết lập và điều phối lộ trình tự học khoa học để đạt điểm mục tiêu mà không gây quá tải.
 3. **Step đau nhất đang nằm ở đâu**
+> Lập kế hoạch và điều chỉnh 
 4. **AI leverage point + assumption rủi ro nhất là gì**
+> Lập lịch động và cập nhật dữ liệu. Nếu học sinh không chịu khó cập nhật tiến độ hàng ngày vào ứng dụng, AI sẽ không có dữ liệu đầu vào để thực hiện việc điều chỉnh (Modify), làm mất đi giá trị lớn nhất của sản phẩm.
 
 ### Nếu chưa biết hỏi ngược gì, dùng 4 câu này
 
@@ -430,10 +427,9 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 ### Ghi nhanh sau khi nghe bàn phản biện
 
 | Ý phản biện tôi nghe được | Nó chạm vào phần nào? | Tôi sẽ giữ / sửa gì? |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+| "Học sinh lớp 9 rất bận, nếu app bắt nhập tay tiến độ mỗi ngày thì họ sẽ bỏ cuộc sau 3 ngày." | Assumption A1 (Data entry friction) | **Giữ nguyên Job**, nhưng thêm giải pháp: Cần tích hợp nhắc nhở qua Zalo/Messenger hoặc "Check-in 1 chạm" để giảm ma sát. |
+| "Lộ trình AI có thể quá máy móc, không hiểu được cảm xúc hay sự mệt mỏi thực tế của học sinh." | Step Modify (Điều chỉnh) | **Sửa Product Hypothesis**: Thêm yếu tố "nhịp sinh học" và "trạng thái tinh thần" vào đầu vào của AI để lịch trình mang tính nhân văn hơn. |
+
 
 ---
 
@@ -441,52 +437,40 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 ### Sau khi nghe phản biện, tôi thay đổi gì?
 
-- [ ] Giữ nguyên `job executor`
+- [x] Giữ nguyên `job executor`
 - [ ] Sửa `job executor`
-- [ ] Giữ nguyên `core JTBD`
+- [x] Giữ nguyên `core JTBD`
 - [ ] Sửa `core JTBD`
-- [ ] Giữ nguyên `AI leverage point`
+- [x] Giữ nguyên `AI leverage point`
 - [ ] Sửa `AI leverage point`
 - [ ] Giữ nguyên `product hypothesis`
-- [ ] Sửa `product hypothesis`
+- [x] Sửa `product hypothesis`
 
 ### Vì sao tôi giữ / sửa?
 
-> _______________________________________________  
-> _______________________________________________
+> Tôi giữ nguyên Job vì mục tiêu cuối vẫn là đạt điểm số mà không quá tải. Tuy nhiên, tôi sửa Product Hypothesis để nhấn mạnh vào "sự thấu hiểu" và "tính liên tục" của lộ trình - đây là cảm xúc quan trọng giúp học sinh gắn bó với app thay vì chỉ là một công cụ lập lịch khô khan.
 
 ### Version cuối cùng tôi nộp
 
-**Job executor:**  
-> _______________________________________________
-
-**Core JTBD:**  
-> _______________________________________________
-
-**2 bước đau nhất trong workflow:**  
-> _______________________________________________
-
-**AI leverage point chính:**  
-> _______________________________________________
-
-**Product hypothesis:**  
-> _______________________________________________
-
-**Assumption cần validate đầu tiên:**  
-> _______________________________________________
+**Job executor:** Học sinh lớp 9 ôn thi chuyển cấp.
+**Core JTBD:** Thiết lập và điều phối lộ trình tự học khoa học để đạt điểm mục tiêu mà không gây quá tải.
+**2 bước đau nhất trong workflow:** Prepare (Lập kế hoạch) và Modify (Điều chỉnh khi thực tế thay đổi).
+**AI leverage point chính:** Tự động hóa việc cá nhân hóa lịch trình (Dynamic Scheduling) dựa trên tiến độ và nhịp sinh học.
+**Product hypothesis:** Nếu chúng ta giúp học sinh lập và điều chỉnh lộ trình học tập tức thì bằng AI, họ sẽ chuyển từ công cụ thủ công sang StudyMate AI vì giảm được áp lực quản lý và luôn duy trì được đà học tập.
+**Assumption cần validate đầu tiên:** Học sinh có sẵn sàng cập nhật tiến độ học tập hàng ngày để AI làm việc hay không?
 
 ---
 
 ## Checklist trước khi nộp
 
-- [ ] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
-- [ ] Tôi đã phân biệt được `job executor` với buyer / influencer.
-- [ ] `Core JTBD` của tôi không nhét solution vào câu.
-- [ ] Tôi đã viết đủ 3 `job stories`.
-- [ ] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
-- [ ] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
-- [ ] Tôi đã ghi rõ `assumptions to validate`.
-- [ ] Tôi đã sửa version cuối sau khi share trong bàn.
+- [X] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
+- [X] Tôi đã phân biệt được `job executor` với buyer / influencer.
+- [X] `Core JTBD` của tôi không nhét solution vào câu.
+- [X] Tôi đã viết đủ 3 `job stories`.
+- [X] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
+- [X] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
+- [X] Tôi đã ghi rõ `assumptions to validate`.
+- [X] Tôi đã sửa version cuối sau khi share trong bàn.
 
 ---
 
